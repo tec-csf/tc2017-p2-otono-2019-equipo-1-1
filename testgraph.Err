@@ -1,0 +1,25 @@
+--------
+/home/fernando/Snap-5.0/examples/testgraph/testgraph.Err
+Sun Oct 20 18:56:40 2019
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'1 or 4 not a node.'], file /home/fernando/Snap-5.0/snap-core/network.h, line 820
+--------
+--------
+/home/fernando/Snap-5.0/examples/testgraph/testgraph.Err
+Sun Oct 20 18:57:57 2019
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'1 or 4 not a node.'], file /home/fernando/Snap-5.0/snap-core/network.h, line 820
+--------
+--------
+/home/fernando/Snap-5.0/examples/testgraph/testgraph.Err
+Sun Oct 20 18:58:05 2019
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'1 or 4 not a node.'], file /home/fernando/Snap-5.0/snap-core/network.h, line 820
+--------
+--------
+/home/fernando/Snap-5.0/examples/testgraph/testgraph.Err
+Sun Oct 20 19:01:43 2019
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'1 or 4 not a node.'], file /home/fernando/Snap-5.0/snap-core/network.h, line 820
+--------
+--------
+/home/fernando/Snap-5.0/examples/testgraph/testgraph.Err
+Sun Oct 20 19:03:30 2019
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or -1347320211 not a node.'], file /home/fernando/Snap-5.0/snap-core/network.h, line 820
+--------
